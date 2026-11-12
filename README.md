@@ -1,5 +1,19 @@
-# Bank-Management-System
+## Project Team
+
+**Project:** Banking Management System in C
+
+**Team Members:**
+1. Ishita Sharma
+2. Rashmi Jha
+
+**Course:** BCA Data Science
+
+**Semester:** First Semester
+
+**University:** Chandigarh University
+
 A menu-driven Banking Management System developed in C using basic first-semester programming concepts.
+
 # 🏦 Bank Management System in C
 
 ## Project Overview
