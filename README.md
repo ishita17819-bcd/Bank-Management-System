@@ -3,8 +3,8 @@
 **Project:** Banking Management System in C
 
 **Team Members:**
-1. Ishita Sharma
-2. Rashmi Jha
+1. Ishita Sharma (UID- 26BCD10309)
+2. Rashmi Jha.   ( UID-26BCD10285)
 
 **Course:** BCA Data Science
 
